@@ -1,0 +1,6 @@
+This is a simple Express + React project.
+Here are some requirements:
+1. Install and run the project as written in Readme file.
+2. Create .env file and grab all env data into the env file for both of backend and frontend.
+3. Create a simple plan to change backend MongoDB into PostgreSQL.
+(It takes less than 30 min in all.)
